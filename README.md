@@ -28,25 +28,18 @@ bayesian-regression-sensors/
 
 ## 🚀 How to Run
 1. Clone this repository:
-   ```bash
    git clone https://github.com/<your-username>/bayesian-regression-sensors.git
    cd bayesian-regression-sensors
-````
 
 2. Activate virtual environment (optional but recommended):
 
-   ```bash
    source venv/bin/activate
-   ```
 3. Launch the notebook:
-
-   ```bash
    cd notebooks
    jupyter notebook
-   ```
+
 4. Open `bayesian_regression_sensors.ipynb` and run all cells.
 
----
 
 ## 🧩 Project Summary
 
