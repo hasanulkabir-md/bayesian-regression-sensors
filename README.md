@@ -1,4 +1,3 @@
-```markdown
 # Bayesian Regression for Noisy Sensor Data
 
 This project applies **Bayesian Linear Regression** to simulate and calibrate noisy sensor data using Python and PyMC.  
