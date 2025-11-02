@@ -61,5 +61,3 @@ bayesian-regression-sensors/
 **Md. Hasanul Kabir**
 Master’s Student, Computer Science & Technolog Nanjing Normal University
 
-````
-
